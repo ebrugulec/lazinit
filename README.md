@@ -1,11 +1,11 @@
 # lazinit
-Command Line Interface for initialize a git repository
+Command Line Interface for initializing a GitHub repository
 
 ![Lazinit](https://github.com/ebrugulec/lazinit/blob/master/lazinit.gif)
 
 ## Installation
 
-* `git@github.com:ebrugulec/lazinit.git`
+* `git clone git@github.com:ebrugulec/lazinit.git`
 * `cd lazinit`
 * `npm install`
 * `npm install -g`
